@@ -1,21 +1,21 @@
 {
-  "name": "stud_pass",
+  "name": "stud_test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://IVoynelovych.github.io/stud_pass",
+  "homepage": "https://IVoynelovych.github.io/stud_test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /stud_pass/"
+    "build": "parcel build src/*.html --public-url /stud_test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IVoynelovych/stud_pass.git"
+    "url": "git+https://github.com/IVoynelovych/stud_test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IVoynelovych/stud_pass/issues"
+    "url": "https://github.com/IVoynelovych/stud_test/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
